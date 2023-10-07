@@ -1,0 +1,21 @@
+{
+    "title": "Proposal Proyek 3",
+    "description": "Proposal Proyek 3 ",
+    "team": [{
+        "name": "Dani Ferdinan",
+        "npm": "1214050",
+        "email":"daniferdinandall@gmail.com"
+    }],
+    "home":{
+        "title": "Proposal Proyek 3",
+        "description": "Proposal Proyek 3"
+    },
+    "article": [{
+        "title": "Proposal Proyek 3",
+        "description": "Proposal Proyek 3"
+    }],
+    "video": [{
+        "title": "Proposal Proyek 3",
+        "description": "Proposal Proyek 3"
+    }]
+}
