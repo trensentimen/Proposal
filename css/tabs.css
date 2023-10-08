@@ -13,6 +13,7 @@
     }
     .tab-pane {
     display: none;
+
     }
     .tab-pane.is-active {
     display: block;

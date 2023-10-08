@@ -4,8 +4,12 @@
     "team": [{
         "name": "Dani Ferdinan",
         "npm": "1214050",
-        "email":"daniferdinandall@gmail.com"
-    }],
+        "email":"daniferdinandall@gmail.com", 
+        
+        "name": "Aryka Anisa Pertiwi",
+        "npm": "1214035",
+        "email":"arykaanisap22@gmail.com"
+}],
     "home":{
         "title": "Proposal Proyek 3",
         "description": "Proposal Proyek 3"
