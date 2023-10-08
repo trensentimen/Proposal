@@ -4,6 +4,11 @@ import { setInner } from "https://jscroot.github.io/element/croot.js";
 // console.log(`${data.article.judulProposal}`)
 setInner("judulProposal", data.article.judulProposal);
 
+//Base
+setInner('basetitle', data.home.title);
+setInner('basedesc', data.home.description);
+
+
 //Pengantar
 setInner("pengantarProposal", `
 <h2>Pengantar</h2>
@@ -62,3 +67,11 @@ setInner("kesimpulan", `
 <p>${data.article.kesimpulan2}</p>
 <p>${data.article.kesimpulan3}</p>
 `);
+
+//Team
+setInner("name2", data.team[0].name);
+setInner("email2", data.team[0].email);
+setInner("npm2", data.team[0].npm);
+setInner("name1", data.team[1].name);
+setInner("email1", data.team[1].email);
+setInner("npm1", data.team[1].npm);
