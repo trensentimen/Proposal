@@ -21,6 +21,9 @@
     },
     "article": {
         "judulProposal": "Web Prediksi Sentimen menggunakan Model Hybrid",
+        "abstract":["Proyek 'Web Prediksi Sentimen menggunakan Model Hybrid' adalah sebuah inisiatif yang bertujuan untuk mengembangkan sebuah platform analisis sentimen inovatif yang memadukan kecerdasan buatan (AI) dan pemrosesan bahasa alami (NLP). Platform ini bertujuan untuk mengubah cara kita memahami sentimen yang tersebar di berbagai sumber data online, termasuk media sosial, ulasan produk, berita, dan lainnya. Dalam konteks era digital yang terus berkembang, pemahaman yang mendalam tentang pandangan dan perasaan masyarakat memiliki dampak yang signifikan di berbagai aspek kehidupan, termasuk bisnis, politik, dan pengambilan keputusan pribadi.",
+        "Proyek ini mengusung model hybrid yang menggabungkan keunggulan dari berbagai pendekatan AI dan NLP, termasuk deep learning, analisis sentimen berbasis aturan, dan pemahaman konteks yang lebih mendalam. Model ini akan memiliki kapasitas untuk menganalisis dan memproses data tekstual dalam berbagai bahasa dan konteks, dengan akurasi tinggi dan kemampuan untuk mengekstrak makna dan niat pengguna. Pengguna akan dapat mengakses platform ini untuk menganalisis sentimen dengan cepat dan akurat, memahami pandangan masyarakat, dan mengambil keputusan berdasarkan wawasan yang lebih baik.",
+        "Dalam abstrak ini, kami merangkum tujuan utama, pendekatan teknis, dan manfaat proyek 'Web Prediksi Sentimen menggunakan Model Hybrid.' Proyek ini akan membawa dampak positif dalam pemahaman sentimen online dan memberikan alat yang kuat bagi individu dan organisasi untuk mengambil tindakan berdasarkan wawasan yang lebih baik tentang opini dan perasaan yang tersebar di dunia digital."],
         "pengantarProposal": "Kami sangat antusias untuk mengajukan proposal ini untuk pembuatan sebuah website yang akan membantu pengguna dalam menganalisis sentimen online menggunakan model hybrid yang memadukan kecerdasan buatan (AI) dan pemrosesan bahasa alami (NLP).",
         "latarBelakang1": "Dalam era digital, pemahaman sentimen publik sangat penting untuk bisnis, pemerintah, dan individu. Kami ingin menciptakan sebuah website yang memungkinkan pengguna untuk menganalisis dan memahami sentimen di media sosial, ulasan produk, berita, dan banyak lagi.",
         "latarBelakang2": "Dalam konteks ini, proyek 'Web Prediksi Sentimen menggunakan Model Hybrid' lahir sebagai solusi yang inovatif dan penting. Model hybrid yang kami usulkan akan menggabungkan keunggulan dari berbagai pendekatan AI dan NLP, termasuk deep learning, analisis sentimen berbasis aturan, dan pemahaman konteks yang lebih mendalam. Model ini akan memiliki kapasitas untuk menganalisis dan memproses data tekstual dalam berbagai bahasa dan konteks, dengan akurasi tinggi dan kemampuan untuk mengekstrak makna dan niat pengguna.",
@@ -60,5 +63,15 @@
             "title": "Proposal Proyek 3",
             "description": "Proposal Proyek 3"
         }
-    ]
+    ],
+    "cover":{
+        "judulCover": "Website Prediksi Sentimen Menggunakan Model Hybrid",
+        "proyekProposal": "Proposal Proyek 3",
+        "tujuan":["Ditujukan sebagai salah satu syarat","Untuk Memenuhi Kelulusan Matakuliah Proyek III","Program Studi DIV Teknik Informatika"],
+        "logo": "image/logo.png",
+        "prodi":"PROGRAM DIPLOMA IV TEKNIK INFORMATIKA",
+        "univ":"UNIVERSITAS LOGISTIK & BISNIS INTERNASIONAL",
+        "kota":"BANDUNG",
+        "tahun":"2023"
+    }
 }

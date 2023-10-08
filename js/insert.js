@@ -8,6 +8,30 @@ setInner("judulProposal", data.article.judulProposal);
 setInner('basetitle', data.home.title);
 setInner('basedesc', data.home.description);
 
+//Cover
+setInner("judulCover", data.cover.judulCover);
+setInner("proyek", data.cover.proyekProposal);
+setInner("tujuan", `
+<br> ${data.cover.tujuan[0]}
+<br> ${data.cover.tujuan[1]}
+<br> ${data.cover.tujuan[2]}
+`);
+setInner("namateam",`
+<p>${data.team[0].name}</p>
+<p>${data.team[1].name}</p>
+`)
+setInner("prodi", data.cover.prodi);
+setInner("univ", data.cover.univ);
+setInner("kota", data.cover.kota);
+setInner("tahun", data.cover.tahun);
+
+//Abstract
+setInner("abstract",`
+<h2>Abstract</h2>
+<p>${data.article.abstract[0]}</p>
+<p>${data.article.abstract[1]}</p>
+<p>${data.article.abstract[2]}</p>
+`);
 
 //Pengantar
 setInner("pengantarProposal", `
