@@ -103,6 +103,8 @@ const responsFungsi = (data) => {
     setInner("name1", data.team[1].name);
     setInner("email1", data.team[1].email);
     setInner("npm1", data.team[1].npm);
+    setInner("photo1", `<img src="${data.team[1].photo}" alt="image" width="112" height="28">`);
+    setInner("photo2", `<img src="${data.team[0].photo}" alt="image" width="112" height="28">`);
 };
 
 await get("https://raw.githubusercontent.com/trensentimen/trensentimen.github.io/main/json/porposal.json", responsFungsi);
